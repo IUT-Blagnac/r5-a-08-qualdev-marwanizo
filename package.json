@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "cucumber": "^6.0.7",
+    "git": "^0.1.5",
+    "maven": "^5.0.0"
+  },
+  "devDependencies": {
+    "@cucumber/cucumber": "^11.1.0"
+  }
+}
